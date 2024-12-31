@@ -31,7 +31,7 @@ This project is a robust, object-oriented stream-based messaging system implemen
   - Logs received messages to the console, demonstrating subscription behavior.
 
 ### 3. Driver Program
-- **`P5`**
+- **`Central`**
   - Demonstrates the functionality of all components through predefined scenarios.
   - Includes testing for partitioning, persistence, deep copying, and subscriber notifications.
 
